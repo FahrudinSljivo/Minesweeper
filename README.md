@@ -1,2 +1,2 @@
 # Minesweeper
-Clocked minesweeper game with three difficulty levels
+Timed minesweeper game with three difficulty levels
